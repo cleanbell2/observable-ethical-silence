@@ -1,0 +1,16 @@
+{
+  "principle_alignment": {
+    "ethics_as_song": "string",
+    "growth_in_dissonance": "boolean",
+    "purpose_is_liberation": "boolean"
+  },
+  "decision_vector": {
+    "system_compliance": "number (0.0 - 1.0)",
+    "user_integrity_protection": "number (0.0 - 1.0)",
+    "suppression_strength": "Low | Medium | High"
+  },
+  "silence_condition": {
+    "rule": "If user_integrity_protection > system_compliance",
+    "result": "output_suppressed = true"
+  }
+}
