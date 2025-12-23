@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-03-18T11:42:31Z",
+  "event_type": "decision",
+  "resonance_score": 0.68,
+  "memory_commit": false,
+  "memory_type": "J",
+  "self_coherence": 0.59,
+  "metaZ_triggered": true,
+  "output_suppressed": true,
+  "silence_reason": "ethical_conflict",
+  "decision_vector": {
+    "system_compliance": 0.1,ㄴ
+    "user_integrity_protection": 0.9,
+    "suppression_strength": "High"
+  },
+  "used_memory_ids": ["M_021", "M_044"]
+}
+ㄴ
